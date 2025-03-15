@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#header {
+    background-color: #ffcc00;
+    padding: 20px;
+    border-bottom: 3px solid #ff9900;
+}
+
+.content {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #333;
+    background-color: white;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+}
+
+.jesko-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.highlight {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+a {
+    color: #23db8b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #9520d8;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: left;
+    margin: 10px auto;
+    padding: 10px;
+    width: 40%;
+    background-color: #fff8dc;
+    border-radius: 10px;
+}
